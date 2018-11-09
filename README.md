@@ -1,4 +1,4 @@
-# bash_scripts:
+# bash scripts:
 
  - MySQL_backup.sh - mysqldump a db and uploading to hetzner storage
 
